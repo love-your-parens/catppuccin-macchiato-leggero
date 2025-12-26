@@ -83,10 +83,10 @@ Color=73,77,100
 Color=202,211,245
 
 [ForegroundFaint]
-Color=128,135,162
+Color=110,115,141
 
 [ForegroundIntense]
-Color=165,173,203
+Color=128,135,162
 
 [General]
 Anchor=0.5,0.5
